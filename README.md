@@ -4,7 +4,7 @@ _Essas foram algumas das atividades propostas ao longo do aprendizado em HTML5 e
 ### Ai, Gabi, só quem viveu sabe!<br>
 Esse foi um curso legal de fazer, ainda que sem tutoria (o que dificultou as coisas em alguns momentos). Esses exercícios abraçam só a primeira e a segunda parte do curso, 
 onde a gente aprendeu HTML e CSS (são coisas simples, mas legais, vai). Rolaram os primeiros contatos com várias pequenas tarefas, listo algumas delas: 
-* adicionar áudio, imagem, arquivo de áudio
+* adicionar arquivos de áudio, imagem e vídeo
 * fazer listas ordenadas e não ordenadas
 * fazer tabelas 
 * trabalhar com botões e hiperlinks
