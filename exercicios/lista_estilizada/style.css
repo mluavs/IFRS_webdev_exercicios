@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+
+.title{
+    font-size: 32px;
+    color:brown
+}
+
+.estilo{
+    font-size: 18px;
+    color: brown;
+    list-style-type: circle;
+}
+
+.element::before{
+    content: "\01F525";
+}
